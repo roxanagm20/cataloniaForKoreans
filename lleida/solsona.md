@@ -7,6 +7,9 @@ permalink: lleida/solsona
 
 # Solsona
 <br>
+<a class="btn btn-info" href="gastronomy" role="button">Gastronomy</a>
+<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>
+
 ### 1. Catedral de Solsona / 솔소나 성당
 
 ##### Schedule:
@@ -63,31 +66,4 @@ Plaça Palau 1, 25280 Solsona (Solsonès)
 Phone number / 전화번호: +34 973 482 101
 
 More information / 추가 정보: <http://www.museusolsona.cat/>
-
----
-
-### 3. Modernism: cemetery "Sant Esteve de Olius"
-
-##### Schedule 스케줄:
-From October to March, 10월 ~ 3월:
-* From Monday to Sunday: 10.00h - 17.30 h
-* 매일: 오전 10시 ~ 오후 5시 반
-
-From April to September, 4월 ~ 9월:
-* From Monday to Sunday: 10.00 h - 20.00 h
-* 매일: 오전 10시 ~ 오후 8시
-
-Day of worship (mass). Sundays at 12.30h
-미사. 일요일 12시 반
-
-For guided visits / 방문객 해설: <http://www.solsonaexperience.com>
-
-Address / 주소: Bisbat de Solsona
-Carretera de Solsona a Berga, km 4
-25280 Olius Solsonès
-
-Phone number / 전화번호: +34 663 668 184
-
-More information / 추가정보: <http://solsonaturisme.com/ca/rutes/sant-esteve-dolius/>
-
 ​
