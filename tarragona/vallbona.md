@@ -2,7 +2,7 @@
 layout: page
 title: Vallbona de les Monges
 region: tarragona
-permalink: tarragona/vallbona
+permalink: tarragona/vallbona/
 ---
 # Vallbona de les Monges
 <br>

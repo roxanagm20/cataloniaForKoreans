@@ -2,7 +2,7 @@
 layout: page
 title: Sant Joan de les Abadesses
 region: girona
-permalink: girona/santjoan
+permalink: girona/santjoan/
 ---
 
 # Sant Joan de les Abadesses
