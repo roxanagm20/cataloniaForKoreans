@@ -7,7 +7,7 @@ permalink: girona/santjoan/
 
 # Sant Joan de les Abadesses
 <br>
-<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>  
+<a class="btn btn-info" href={{ "fair_and_holiday" }} role="button">Fair and Holidays</a>
 
 ### Monastery 수도원
 <br>
