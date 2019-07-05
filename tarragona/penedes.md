@@ -6,8 +6,8 @@ permalink: tarragona/penedes/
 ---
 # El Penedès
 <br>
-<a class="btn btn-info" href="gastronomy" role="button">Gastronomy</a>
-<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>
+<a class="btn btn-info" href={{ "gastronomy" }} role="button">Gastronomy</a>
+<a class="btn btn-info" href={{ "fair_and_holiday" }} role="button">Fair and Holidays</a>
 
 Between Barcelona and Tarragona stretches a vast plains gently sloping towards the beaches of the Costa Dorada: the Penedès.
 
