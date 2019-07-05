@@ -2,7 +2,7 @@
 layout: page
 title: Monasteri de Poblet i Santes Creus
 region: tarragona
-permalink: tarragona/monasteri/
+permalink: tarragona/monasteri
 ---
 # Monasteri de Poblet i Santes Creus
 <br>
