@@ -2,7 +2,7 @@
 layout: page
 title: el penedes
 region: tarragona
-permalink: tarragona/penedes/
+permalink: tarragona/penedes
 ---
 # El Penedès
 <br>

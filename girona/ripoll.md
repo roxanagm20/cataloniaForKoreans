@@ -2,7 +2,7 @@
 layout: page
 title: ripoll
 region: girona
-permalink: girona/ripoll/
+permalink: girona/ripoll
 ---
 
 # Ripoll

@@ -2,7 +2,7 @@
 layout: page
 title: camprodon
 region: girona
-permalink: girona/camprodon/
+permalink: girona/camprodon
 ---
 
 # Camprodón
