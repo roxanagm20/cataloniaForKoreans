@@ -7,8 +7,8 @@ permalink: girona/ripoll/
 
 # Ripoll
 <br>
-<a class="btn btn-info" href={{ "gastronomy" }} role="button">Gastronomy</a>
-<a class="btn btn-info" href={{ "fair_and_holiday" }} role="button">Fair and Holidays</a>
+<a class="btn btn-info" href="gastronomy" role="button">Gastronomy</a>
+<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>
 ### Santa Maria de Ripoll
 <br>
 ##### Summer Schedule / 여름 스케줄
