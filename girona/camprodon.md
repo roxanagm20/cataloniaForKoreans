@@ -7,23 +7,20 @@ permalink: girona/camprodon
 
 # Camprodón
 <br>
+<a class="btn btn-info" href="gastronomy" role="button">Gastronomy</a>
+<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>
 
-##### Gastronomy 식문화:                            
+### Sant Pere de Camprodón
+<br>
 
-* Galletas (marca Birba), carquiñolis
-* Forcs d’alls
-* Embutidos de cerdo
-* La típica cocina catalana, de alta montaña
+Price / 입장료: Free Entry. 무료  
 
-##### Folklore 전설:
+Address / 주소: Carrer Monestir, 2 17867  
 
-* Baile «La Maniera» (es baila en verano)
+Phone Number / 전화번호: 972 740 136  
 
-##### Fairs 전시회:
+Email: informacio@camprodon.cat  
 
-* December 8th, day of the "Purisima"
-* October 15th, fair of mular and horse cattle.
+More information, 추가 정보: <http://www.camprodon.cat>
 
-More information, 추가 정보: <http://www.valldecamprodon.org/>
-
-​
+<br><br><br><br>

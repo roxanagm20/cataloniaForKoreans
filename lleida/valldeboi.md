@@ -7,6 +7,9 @@ permalink: lleida/valldeboi
 
 # Vall de Boí
 <br>
+<a class="btn btn-info" href="gastronomy" role="button">Gastronomy</a>
+<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>
+
 ### 1. Curch "Erill-la-Vall"
 
 ##### Schedule 스케줄:
