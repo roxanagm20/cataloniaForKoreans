@@ -2,13 +2,13 @@
 layout: page
 title: camprodon
 region: girona
-permalink: girona/camprodon
+permalink: girona/camprodon/
 ---
 
 # Camprodón
 <br>
-<a class="btn btn-info" href="gastronomy" role="button">Gastronomy</a>
-<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>
+<a class="btn btn-info" href="camprodon/gastronomy" role="button">Gastronomy</a>
+<a class="btn btn-info" href="camprodon/fair_and_holiday" role="button">Fair and Holidays</a>
 
 ### Sant Pere de Camprodón
 <br>
