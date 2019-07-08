@@ -2,7 +2,7 @@
 layout: page
 title: valldeboi
 region: lleida
-permalink: lleida/valldeboi
+permalink: lleida/valldeboi/
 ---
 
 # Vall de Boí
