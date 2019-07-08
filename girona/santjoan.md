@@ -2,13 +2,14 @@
 layout: page
 title: Sant Joan de les Abadesses
 region: girona
-permalink: girona/santjoan
+permalink: girona/santjoan/
 ---
 
 # Sant Joan de les Abadesses
-<br>
-<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>  
-
+<p>
+  <a class="btn btn-info mr-5" href="fair_and_holiday" role="button">Fair and Holidays</a>
+  Gastronomia: carns com vedella, el xai, el poltre, el pollastre  i ànec.
+</p>
 ### Monastery 수도원
 <br>
 ##### Schedule 스케줄:
