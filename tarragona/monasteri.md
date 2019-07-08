@@ -2,11 +2,14 @@
 layout: page
 title: Monasteri de Poblet i Santes Creus
 region: tarragona
-permalink: tarragona/monasteri
+permalink: tarragona/monasteri/
 ---
 # Monasteri de Poblet i Santes Creus
 <br>
-### Monasterio de Poblet / Poblet 수도원 :
+<a class="btn btn-info" href="gastronomy" role="button">Gastronomy</a>
+<a class="btn btn-info" href="fair_and_holiday" role="button">Fair and Holidays</a>
+
+### Monasteri de Poblet / Poblet 수도원 :
 
 ##### Schedule 스케줄:
 
