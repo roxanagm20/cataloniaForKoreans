@@ -2,7 +2,7 @@
 layout: page
 title: solsona
 region: lleida
-permalink: lleida/solsona
+permalink: lleida/solsona/
 ---
 
 # Solsona
